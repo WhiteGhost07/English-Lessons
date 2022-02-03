@@ -33,4 +33,11 @@
         font-size: 14px;
         padding: 15px 10px;
        }
+       #teacher
+       {
+       width: 75%;
+       grid-template-columns: repeat(1, 1fr);
+       margin: 1% auto;
+       display: grid;
+       }
 }
