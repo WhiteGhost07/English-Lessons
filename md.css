@@ -40,4 +40,9 @@
        margin: 1% auto;
        display: grid;
        }
+       .btn
+       {
+       margin-left: 90%;
+       margin-top: -62%;
+       }
 }
