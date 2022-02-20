@@ -37,18 +37,13 @@
        {
        width: 75%;
        grid-template-columns: repeat(1, 1fr);
-       margin: 1% auto;
+       margin: 850px auto 0;
        display: grid;
-       }
-       .btn
-       {
-       margin-left: 90%;
-       margin-top: -62%;
        }
        .txt
        {
-       width: 100%;
-       font-size: 18px;
-       margin-left: 0%;
+           width: 100%;
+           font-size: 18px;
+           margin-left: 0%;
        }
 }
