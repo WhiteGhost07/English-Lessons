@@ -45,4 +45,10 @@
        margin-left: 90%;
        margin-top: -62%;
        }
+       .txt
+       {
+       width: 100%;
+       font-size: 18px;
+       margin-left: 0%;
+       }
 }
